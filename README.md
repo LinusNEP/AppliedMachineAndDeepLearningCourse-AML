@@ -47,7 +47,7 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 ## Course Format and Organisation
 
 ### Attendance
-**Mode of Attendance:**  Physical or via Webex
+**Mode of attendance:**  Physical or via Webex
   
 - **Join Webex Meeting:** https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61
 
@@ -66,15 +66,10 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 - **Location:**  HS 3 Studienzentrum, Montanuniversität, Leoben
 - **Dates:** 02.10  –  06.10.2023 and Every Wednesday from 17:00 - 18:00 via Webex.
 
-
-
-- Course tutorials and assignments will be posted on JupyterHub before each session starts.
-
-Online assistance will be limited, therefore, it is encouraged to attend the course in person so that you can get unlimited help to enable you finish or at least figure out how to finish the assignment before the due time.
-
-An account will be created for each group in our JupyterHub for submission of the assignments.
-
-The accounts will remain active till the end of the semester.
+### Notes
+- Online assistance will be limited, therefore, it is encouraged to attend the course in person so that you can get unlimited help to enable you to finish or at least figure out how to finish the assignment before the due time.
+- An account will be created for each group in our [JupyterHub](https://jupyter.cps.unileoben.ac.at/user/linus/lab) for submission of the assignments.
+- The accounts will remain active till the end of the semester.
 
 The final project results will be presented in a written report in form of a git repository wiki page, and presented for a final 5 -10 mins.
 - AML WS 2023/24 Lab

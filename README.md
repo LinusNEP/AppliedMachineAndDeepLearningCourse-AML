@@ -91,7 +91,7 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 - The timetable for the lecture will be updated from time to time. 
 - You can access the timetable at https://cloud.cps.unileoben.ac.at/index.php/apps/
 <p align="center">
-  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/dataVis.png" width="100%" />
+  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/AMLSchedule.png" width="100%" />
 </p>
 
 ### Contact

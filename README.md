@@ -44,18 +44,18 @@
 ### Attendance
 **Mode of attendance:**  Physical or via Webex
   
-- **Join Webex Meeting:** https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61
+  - **Join Webex Meeting:** https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61
 
-- **Meeting number (access code):** 2785 518 6804
+  - **Meeting number (access code):** 2785 518 6804
 
-- **Meeting password:** fgJq3UEKf67
+  - **Meeting password:** fgJq3UEKf67
 
 **Weekly online meetings:**  Every Wednesday from 17:00 - 18:00 via Webex
-- **Join Webex Meeting:** https://unileoben.webex.com/unileoben/j.php?MTID=m5e17e864e5784737dffd2fa1d27d161c
+  - **Join Webex Meeting:** https://unileoben.webex.com/unileoben/j.php?MTID=m5e17e864e5784737dffd2fa1d27d161c
 
-- **Meeting number (access code):** 2789 858 4770
+  - **Meeting number (access code):** 2789 858 4770
 
-- **Meeting password:** vTHYP5QMj77
+  - **Meeting password:** vTHYP5QMj77
 
 ### Location & Date
 - **Location:**  HS 3 Studienzentrum, Montanuniversität, Leoben
@@ -99,9 +99,9 @@
 </p>
 
 **Q & A**
-- During the Lecture
-- During office hours
-- If technical question(s) that involve hardware: come to the lab or schedule an appointment
+  - During the Lecture
+  - During office hours
+  - If technical question(s) that involve hardware: come to the lab or schedule an appointment
 
 ###  Report and Code
 | Reports | Codes|
@@ -113,14 +113,13 @@
 
 ### Alternative Submission Method
 If there are hitches, or you are unable to work with our JupyterHub, then:
-1. Create a .zip file with the following contents:
-- .ipynb of your code
-- .md of the wiki report
-2. Name it m-number_firstname_lastname_task<#>.zip
-- For example, m123456789_john_smith_assign1.zip
-3. Upload it to the cloud at [Direct Upload](https://cloud.cps.unileoben.ac.at/index.php/s/qYWzDYyRMdrLQmw).
-
-4. **Note:** No submission will be accepted via email.
+  1. Create a .zip file with the following contents:
+    - .ipynb of your code
+    - .md of the wiki report
+  2. Name it m-number_firstname_lastname_task<#>.zip
+    - For example, m123456789_john_smith_assign1.zip
+  3. Upload it to the cloud at [Direct Upload](https://cloud.cps.unileoben.ac.at/index.php/s/qYWzDYyRMdrLQmw).
+  4. **Note:** No submission will be accepted via email.
 
 ### Project Grading
 <p align="center">
@@ -143,19 +142,20 @@ If there are hitches, or you are unable to work with our JupyterHub, then:
 
 ### Project Objectives
 At the end of this course, you should be able to:
-- Implement or independently adapt modern machine learning methods, and in particular deep learning methods, in Python
-- Analyse data of complex industrial problems, process (filter) the data, and divide it into training- and test data sets such that a meaningful interpretation is possible
-- Define criteria and metrics to evaluate,  predict, and generate statistical analysis of data
-- Develop, evaluate, and discuss meaningful real-world experiments
-- Identify and describe assumptions, problems, and ideas for improvement of practical learning problems
+  - Implement or independently adapt modern machine learning methods, and in particular deep learning methods, in Python
+  - Analyse data of complex industrial problems, process (filter) the data, and divide it into training- and test data sets such that a meaningful interpretation is possible
+  - Define criteria and metrics to evaluate,  predict, and generate statistical analysis of data
+  - Develop, evaluate, and discuss meaningful real-world experiments
+  - Identify and describe assumptions, problems, and ideas for improvement of practical learning problems
 
 ### Resources and Literature
 **Machine learning and data-modelling**
-- Rueckert Elmar 2022. An Introduction to Probabilistic Machine Learning. https://cloud.cps.unileoben.ac.at/index.php/s/iDztK2ByLCLxWZA
-- James-A. Goulet 2020. [Probabilistic Machine Learning for Civil Engineers](https://search-mul.obvsg.at/primo-explore/fulldisplay?docid=MUL_alma2190819730004518&context=L&vid=MUL&lang=de_DE&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Probabilistic%20Machine%20Learning%20for%20Civil%20Engineers). MIT Press
-- Bishop 2006. [Pattern Recognition and Machine Learning](https://search-mul.obvsg.at/primo-explore/fulldisplay?docid=MUL_alma2140062860004518&context=L&vid=MUL&lang=de_DE&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2CPattern%20Recognition%20and%20Machine%20Learning), Springer
+  - Rueckert Elmar 2022. An Introduction to Probabilistic Machine Learning. https://cloud.cps.unileoben.ac.at/index.php/s/iDztK2ByLCLxWZA
+  - James-A. Goulet 2020. [Probabilistic Machine Learning for Civil Engineers](https://search-mul.obvsg.at/primo-explore/fulldisplay?docid=MUL_alma2190819730004518&context=L&vid=MUL&lang=de_DE&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Probabilistic%20Machine%20Learning%20for%20Civil%20Engineers). MIT Press
+  - Bishop 2006. [Pattern Recognition and Machine Learning](https://search-mul.obvsg.at/primo-explore/fulldisplay?docid=MUL_alma2140062860004518&context=L&vid=MUL&lang=de_DE&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2CPattern%20Recognition%20and%20Machine%20Learning), Springer
+  
 **Learning method & programming in Python**
-  - Matthieu Deru and Alassane Ndiaye 2020. Deep Learning mit TensorFlow, Keras und TensorFlow.js., Rheinwerk-verlag, DE.
+  - Matthieu Deru and Alassane Ndiaye 2020. [Deep Learning mit TensorFlow, Keras und TensorFlow.js](https://search-mul.obvsg.at/primo-explore/fulldisplay?docid=MUL_alma2184389950004518&context=L&vid=MUL&lang=de_DE&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2CDeep%20Learning%20mit%20TensorFlow%2C%20Keras), Rheinwerk-verlag, DE.
   - 
 
 ### Contact

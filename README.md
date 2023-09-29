@@ -103,11 +103,16 @@ Q & A
 - If technical question(s) that involve hardware: come to the lab or schedule an appointment
 
 ###  Report and Code
-Reports | Codes|
-:-: | :-: |
-- All reports must be in the Wiki repository or READMe.md format.
-- HANDWRITTEN reports will not be accepted
-  | - All the code must be written using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://research.google.com/colaboratory/).
+| Reports | Codes|
+|----------|----------|
+| - All reports must be in the Wiki repository or READMe.md format  | - All the code must be written using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://research.google.com/colaboratory/)  |
+| - HANDWRITTEN reports will not be accepted  | Use our JupyterHub templates at: https://jupyter.cps.unileoben.ac.at|
+| Cell 3A  | Cell 3B  |
+
+
+
+
+  | .
 |
 
 

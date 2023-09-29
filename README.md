@@ -11,7 +11,7 @@
     <h2 align="center">AML Project Materials</h2>
   </p>
 <p align="center">
-  <h3 align="center"><a href="https://cloud.cps.unileoben.ac.at/index.php/s/WkQJyA2wLSpKiYT">Exercises</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/eMJL744zi2cHRCw">Jupyter Notebook Template</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/iWzKSKJRZ2JHm4a">Lecture Notes</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/pHzZxfiDQff9RGs">Projects & Datasets</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/mogXns8AyQdtBHX">Slides</a> </h3> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/qYWzDYyRMdrLQmw">Submission</a> </h3>
+  <h3 align="center"><a href="https://cloud.cps.unileoben.ac.at/index.php/s/WkQJyA2wLSpKiYT">Exercises</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/eMJL744zi2cHRCw">Jupyter Notebook Template</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/iWzKSKJRZ2JHm4a">Lecture Notes</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/pHzZxfiDQff9RGs">Projects & Datasets</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/mogXns8AyQdtBHX">Slides</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/qYWzDYyRMdrLQmw">Submission</a> </h3>
   <div align="center"></div>
 </p>
 

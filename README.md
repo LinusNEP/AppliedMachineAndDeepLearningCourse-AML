@@ -113,13 +113,13 @@
 
 ### Alternative Submission Method
 If there are hitches, or you are unable to work with our JupyterHub, then:
-  1. Create a .zip file with the following contents:
+1. Create a .zip file with the following contents:
     - .ipynb of your code
     - .md of the wiki report
-  2. Name it m-number_firstname_lastname_task<#>.zip
+2. Name it m-number_firstname_lastname_task<#>.zip
     - For example, m123456789_john_smith_assign1.zip
-  3. Upload it to the cloud at [Direct Upload](https://cloud.cps.unileoben.ac.at/index.php/s/qYWzDYyRMdrLQmw).
-  4. **Note:** No submission will be accepted via email.
+3. Upload it to the cloud at [Direct Upload](https://cloud.cps.unileoben.ac.at/index.php/s/qYWzDYyRMdrLQmw).
+4. **Note:** No submission will be accepted via email.
 
 ### Project Grading
 <p align="center">

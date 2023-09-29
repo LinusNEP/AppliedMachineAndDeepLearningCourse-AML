@@ -105,15 +105,10 @@ Q & A
 ###  Report and Code
 | Reports | Codes|
 |----------|----------|
-| - All reports must be in the Wiki repository or READMe.md format  | - All the code must be written using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://research.google.com/colaboratory/)  |
-| - HANDWRITTEN reports will not be accepted  | Use our JupyterHub templates at: https://jupyter.cps.unileoben.ac.at|
-| Cell 3A  | Cell 3B  |
-
-
-
-
-  | .
-|
+| All reports must be in the Wiki repository or READMe.md format  | All the code must be written using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://research.google.com/colaboratory/)  |
+| HANDWRITTEN reports will not be accepted  | Use our JupyterHub templates at: https://jupyter.cps.unileoben.ac.at. Just open it and start filling it|
+|   | Inline comments in the code  are necessary, but not mandatory |
+|   | The file be in .ipynb format |
 
 
 

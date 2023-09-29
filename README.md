@@ -80,44 +80,17 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 - **Lab safety:** In case your chosen project requires a physical robot or other hardware in our lab, please seek permission from the technician or the person in charge of such hardware.
 - **Citation:** Reference any website or academic material used in your project. If you use **ChatGPT** for your work, please provide details of the prompt and the results.
 
+### Prerequisites
+- A laptop or tablet.
+- Internet access. You could use the Uni. internet or eduroam.
+- Basic Python programming. No worries if you do not have some experience, we will start with the basics.
+- Basic background in statistics, e.g., probability, descriptive statistics (measures of central tendency and dispersion), visual representation of data (histograms, bar charts, pie charts, scatter plots, etc.).
+- **Recommended Prerequisites:** [Introduction to Machine Learning (“190.012” and “190.013”)](https://cps.unileoben.ac.at/events/190-012-introduction-to-machine-learning-lecture/).
 
+### Lecture Time Table
+- The timetable for the lecture will be updated from time to time. 
+- You can access the timetable at https://cloud.cps.unileoben.ac.at/index.php/apps/
 
-
-
-- **Clone the GitHub repository:**
-
-To access the example files and scripts used in the paper, clone this GitHub repository to your local PC. Use the following command:
-```
-cd ~/o2s_ws/src
-git clone https://github.com/LinusNEP/RAAD-2023.git
-```
-This will create a local copy of the repository on your PC, allowing you to run the example files and explore the code.
-
-- **Run and evaluate:**
-
-The example Matlab codes run in sections, first you have to use the 'Run' command to load the parameters to the Matlab workspace, it will return an interactive dialogue box where you have to select yes to load the data to the workspace. Subsequently, for any of the environments, select the metrics of choice (e.g., show the trajectories, absolute trajectory error (ATE), etc) for which you wish to analyse.
-
-Please refer to the paper for more details on the experiments, methodology, and analysis conducted in this work.
-
-
-### Citation
-
-If you use this work for any academic task, please cite the [paper](https://link.springer.com/chapter/10.1007/978-3-031-32606-6_22#:~:text=In%20real%2Dworld%20environments%2C%20SLAM,position%20and%20the%20environment's%20structure.).
-```
-@InProceedings{10.1007/978-3-031-32606-6_22,
-author="Nwankwo, Linus
-and Rueckert, Elmar",
-editor="Petri{\v{c}}, Tadej
-and Ude, Ale{\v{s}}
-and {\v{Z}}lajpah, Leon",
-title="Understanding Why SLAM Algorithms Fail in Modern Indoor Environments",
-booktitle="Advances in Service and Industrial Robotics",
-year="2023",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="186--194"
-}
-```
 
 ### Contact
 

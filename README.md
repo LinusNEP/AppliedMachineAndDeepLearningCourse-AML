@@ -103,7 +103,6 @@ Q & A
 - If technical question(s) that involve hardware: come to the lab or schedule an appointment
 
 ###  Report and Code
--
 | Reports | Codes|
 |----------|----------|
 | All reports must be in the Wiki repository or READMe.md format  | All the code must be written using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://research.google.com/colaboratory/)  |
@@ -111,6 +110,16 @@ Q & A
 |   | Inline comments in the code  are necessary, but not mandatory |
 |   | The file must be in .ipynb format |
 
+### Alternative Submission Method
+If there are hitches, or you are unable to work with our JupyterHub, then:
+1. Create a .zip file with the following contents:
+- .ipynb of your code
+- .md of the wiki report
+2. Name it m-number_firstname_lastname_task<#>.zip
+- For example, m123456789_john_smith_assign1.zip
+3. Upload it to the cloud at [Direct Upload](https://cloud.cps.unileoben.ac.at/index.php/s/qYWzDYyRMdrLQmw).
+
+4. **Note:** No submission will be accepted via email.
 
 
 ### Contact

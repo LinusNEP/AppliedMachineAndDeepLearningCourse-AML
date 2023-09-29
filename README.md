@@ -19,11 +19,6 @@
   <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/dataVis.png" width="100%" />
 </p>
 
-LiDAR-based data acquisition | Visual-based data acquisition |
-:-: | :-: |
-[Video demo here](https://github.com/LinusNEP/RAAD-2023/blob/main/images/lidarstudyCenter.mp4) | [Video demo here](https://youtu.be/pBlj0kQzTBY) |
-
-
 ## Table of Contents
 
 - [Course Format and Organisation](https://github.com/LinusNEP/AppliedMLDL_WS23#Course-Format-and-Organisation)
@@ -93,11 +88,28 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 <p align="center">
   <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/AMLSchedule.png" width="100%" />
 </p>
+
 ### If you miss the course
 - If you miss some course content, you can watch recordings of the sessions online.
 - All recordings will be hosted via Moodle at: https://moodle.unileoben.ac.at/course/view.php?id=3082.
 
 ### The Project Work Flow
+<p align="center">
+  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/workflow.png" width="100%" />
+</p>
+Q & A
+- During the Lecture
+- During office hours
+- If technical question(s) that involve hardware: come to the lab or schedule an appointment
+
+###  Report and Code
+Reports | Codes|
+:-: | :-: |
+- All reports must be in the Wiki repository or READMe.md format.
+- HANDWRITTEN reports will not be accepted
+  | - All the code must be written using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://research.google.com/colaboratory/).
+|
+
 
 
 ### Contact

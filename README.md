@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cloud.cps.unileoben.ac.at/index.php/s/3Cf8zz4rspPdrmr" width="100%" />
+  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/dataVis.png" width="100%" />
 </p>
 
 LiDAR-based data acquisition | Visual-based data acquisition |

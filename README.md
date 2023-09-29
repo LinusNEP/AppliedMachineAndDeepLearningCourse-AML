@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h2 align="center">Understanding why SLAM algorithms fail in modern indoor environments</h2>
+  <h2 align="center">Applied Machine and Deep Learning (AML) Project</h2>
   <p align="center">
     <a href="https://cps.unileoben.ac.at/m-sc-linus-nwankwo/"><strong>Nwankwo Linus*</strong></a>
     ·
@@ -9,7 +9,7 @@
   
   <p align="center"><a href="https://www.unileoben.ac.at/"><strong>Montanüniversität Leoben</strong></a>
   
-  <h3 align="center"><a href="https://arxiv.org/abs/2305.05313">arXiv</a> | <a href="https://link.springer.com/chapter/10.1007/978-3-031-32606-6_22#:~:text=In%20real%2Dworld%20environments%2C%20SLAM,position%20and%20the%20environment's%20structure.">Paper</a> | <a href="https://osf.io/qdxev/">Dataset</a></h3>
+  <h3 align="center"><a href="https://......">Lecture Notes</a> | <a href="https://......">Slides</a> | <a href="https.......">project Dataset</a></h3>
   <div align="center"></div>
 </p>
 

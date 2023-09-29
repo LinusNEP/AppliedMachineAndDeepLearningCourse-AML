@@ -47,21 +47,27 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 ## Course Format and Organisation
 
 ### Attendance
-- **Mode of Attendance:**  Physical or via Webex Meeting
+**Mode of Attendance:**  Physical or via Webex
   
-**Join Webex Meeting:** https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61
+- **Join Webex Meeting:** https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61
 
-**Meeting number (access code):** 2785 518 6804
+- **Meeting number (access code):** 2785 518 6804
 
-**Meeting password:** fgJq3UEKf67
+- **Meeting password:** fgJq3UEKf67
+
+**Weekly online meetings:**  Every Wednesday from 17:00 - 18:00 via Webex
+- **Join Webex Meeting:** https://unileoben.webex.com/unileoben/j.php?MTID=m5e17e864e5784737dffd2fa1d27d161c
+
+- **Meeting number (access code):** 2789 858 4770
+
+- **Meeting password:** vTHYP5QMj77
+
+### Location & Date
+- **Location:**  HS 3 Studienzentrum, Montanuniversität, Leoben
+- **Dates:** 02.10  –  06.10.2023 and Every Wednesday from 17:00 - 18:00 via Webex.
 
 
 
-
-
-
-
-- Chair of Cyber-Physical-Systems https://cps.unileoben.ac.at 
 - Course tutorials and assignments will be posted on JupyterHub before each session starts.
 
 Online assistance will be limited, therefore, it is encouraged to attend the course in person so that you can get unlimited help to enable you finish or at least figure out how to finish the assignment before the due time.

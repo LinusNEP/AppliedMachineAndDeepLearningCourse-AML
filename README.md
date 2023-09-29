@@ -26,13 +26,25 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 
 ### Table of Contents
 
-- [Introduction](https://github.com/LinusNEP/RAAD-2023#Introduction)
-- [Setup Instruction](https://github.com/LinusNEP/RAAD-2023#Setup-Instruction)
-- [Run the example files](https://github.com/LinusNEP/RAAD-2023#Run-the-example-files)
-- [Citation](https://github.com/LinusNEP/RAAD-2023#Citation)
-- [Contact](https://github.com/LinusNEP/RAAD-2023#Contact)
+- [Course Format and Organisation](https://github.com/LinusNEP/AppliedMLDL_WS23#Course-Format-and-Organisation)
+- [Communication and Academic Integrity](https://github.com/LinusNEP/AppliedMLDL_WS23#Communication-and-Academic-Integrity)
+- [Prerequisites](https://github.com/LinusNEP/AppliedMLDL_WS23#Prerequisites)
+- [Lecture Time Table](https://github.com/LinusNEP/AppliedMLDL_WS23#Lecture-Time-Table)
+- [If you miss the course](https://github.com/LinusNEP/AppliedMLDL_WS23#If-you-miss-the-course)
+- [The Project Work Flow](https://github.com/LinusNEP/AppliedMLDL_WS23#The-Project-Work-Flow)
+- [Task Presentation, Q & A](https://github.com/LinusNEP/AppliedMLDL_WS23#Task-Presentation,-Q-&-A)
+- [Report and Code](https://github.com/LinusNEP/AppliedMLDL_WS23#Report-and-Code)
+- [Alternative Submission Method](https://github.com/LinusNEP/AppliedMLDL_WS23#Alternative-Submission-Method)
+- [Project Grading](https://github.com/LinusNEP/AppliedMLDL_WS23#Project-Grading)
+- [Grading Scheme](https://github.com/LinusNEP/AppliedMLDL_WS23#Grading-Scheme)
+- [Location & Time](https://github.com/LinusNEP/AppliedMLDL_WS23#Location-&-Time)
+- [Course Objectives](https://github.com/LinusNEP/AppliedMLDL_WS23#Course-Objectives)
+- [Resources and Literature](https://github.com/LinusNEP/AppliedMLDL_WS23#Resources-and-Literature)
+- [Getting Started Tools](https://github.com/LinusNEP/AppliedMLDL_WS23#Getting-Started-Tools)
+- [Projects Overview](https://github.com/LinusNEP/AppliedMLDL_WS23#Projects-Overview)
+- [Project 1: Steel quality prediction in continuous casting plants](https://github.com/LinusNEP/AppliedMLDL_WS23#Project-1:-Steel-quality-prediction-in-continuous-casting-plants) 
 
-### Introduction
+### Course Organisation and Grading
 
 This repository contains codes and resources for the paper "[Understanding Why SLAM Algorithms Fail in Modern Indoor Environments](https://link.springer.com/chapter/10.1007/978-3-031-32606-6_22#:~:text=In%20real%2Dworld%20environments%2C%20SLAM,position%20and%20the%20environment's%20structure.)". The paper investigates the reasons behind the failures of Simultaneous Localization and Mapping (SLAM) algorithms in indoor environments and provides insights into improving their performance.
 

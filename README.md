@@ -127,6 +127,37 @@ If there are hitches, or you are unable to work with our JupyterHub, then:
   <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/grading.png" width="100%" />
 </p>
 
+- **Note:** Submissions with no reports or no code are not considered and will receive 0 total points.
+- You must score at least 50% of the points* at every assignment to pass the course.
+
+### Grading Scheme
+|Cumulative Points | Final Grade|
+|----------|----------|
+| 0 - 49.9  | 5 |
+| 50 - 65.9  | 4 |
+| 66 - 79.9  | 3 |
+| 80 - 91.9  | 2 |
+| 92 - 100 | 1 |
+
+- **Note:** Final grading will be based on the quality of the code, the report, and the final short presentation.
+
+### Project Objectives
+At the end of this course, you should be able to:
+- Implement or independently adapt modern machine learning methods, and in particular deep learning methods, in Python
+- Analyse data of complex industrial problems, process (filter) the data, and divide it into training- and test data sets such that a meaningful interpretation is possible
+- Define criteria and metrics to evaluate,  predict, and generate statistical analysis of data
+- Develop, evaluate, and discuss meaningful real-world experiments
+- Identify and describe assumptions, problems, and ideas for improvement of practical learning problems
+
+### Resources and Literature
+**Machine learning and data-modelling**
+- Rueckert Elmar 2022. An Introduction to Probabilistic Machine Learning. https://cloud.cps.unileoben.ac.at/index.php/s/iDztK2ByLCLxWZA
+- James-A. Goulet 2020. [Probabilistic Machine Learning for Civil Engineers](https://search-mul.obvsg.at/primo-explore/fulldisplay?docid=MUL_alma2190819730004518&context=L&vid=MUL&lang=de_DE&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Probabilistic%20Machine%20Learning%20for%20Civil%20Engineers). MIT Press
+- Bishop 2006. [Pattern Recognition and Machine Learning](https://search-mul.obvsg.at/primo-explore/fulldisplay?docid=MUL_alma2140062860004518&context=L&vid=MUL&lang=de_DE&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any%2Ccontains%2CPattern%20Recognition%20and%20Machine%20Learning), Springer
+**Learning method & programming in Python**
+  - Matthieu Deru and Alassane Ndiaye 2020. Deep Learning mit TensorFlow, Keras und TensorFlow.js., Rheinwerk-verlag, DE.
+  - 
+
 ### Contact
 
 Should you have any questions, please contact:

@@ -44,9 +44,20 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 - [Projects Overview](https://github.com/LinusNEP/AppliedMLDL_WS23#Projects-Overview)
 - [Project 1: Steel quality prediction in continuous casting plants](https://github.com/LinusNEP/AppliedMLDL_WS23#Project-1:-Steel-quality-prediction-in-continuous-casting-plants) 
 
-### Course Organisation and Grading
+### Course Format and Organisation
+- Mode of Attendance:  Physical or via Webex Meeting (https://unileoben.webex.com/meet/linus.nwankwo)
+- Chair of Cyber-Physical-Systems https://cps.unileoben.ac.at 
+- Course tutorials and assignments will be posted on JupyterHub before each session starts.
 
-This repository contains codes and resources for the paper "[Understanding Why SLAM Algorithms Fail in Modern Indoor Environments](https://link.springer.com/chapter/10.1007/978-3-031-32606-6_22#:~:text=In%20real%2Dworld%20environments%2C%20SLAM,position%20and%20the%20environment's%20structure.)". The paper investigates the reasons behind the failures of Simultaneous Localization and Mapping (SLAM) algorithms in indoor environments and provides insights into improving their performance.
+Online assistance will be limited, therefore, it is encouraged to attend the course in person so that you can get unlimited help to enable you finish or at least figure out how to finish the assignment before the due time.
+
+An account will be created for each group in our JupyterHub for submission of the assignments.
+
+The accounts will remain active till the end of the semester.
+
+The final project results will be presented in a written report in form of a git repository wiki page, and presented for a final 5 -10 mins.
+- AML WS 2023/24 Lab
+- Linus Nwankwo
 
 ### Setup Instruction
 

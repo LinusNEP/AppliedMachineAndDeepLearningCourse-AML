@@ -24,7 +24,7 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 [Video demo here](https://github.com/LinusNEP/RAAD-2023/blob/main/images/lidarstudyCenter.mp4) | [Video demo here](https://youtu.be/pBlj0kQzTBY) |
 
 
-### Table of Contents
+## Table of Contents
 
 - [Course Format and Organisation](https://github.com/LinusNEP/AppliedMLDL_WS23#Course-Format-and-Organisation)
 - [Communication and Academic Integrity](https://github.com/LinusNEP/AppliedMLDL_WS23#Communication-and-Academic-Integrity)
@@ -44,16 +44,20 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 - [Projects Overview](https://github.com/LinusNEP/AppliedMLDL_WS23#Projects-Overview)
 - [Project 1: Steel quality prediction in continuous casting plants](https://github.com/LinusNEP/AppliedMLDL_WS23#Project-1:-Steel-quality-prediction-in-continuous-casting-plants) 
 
-### Course Format and Organisation
-- Mode of Attendance:  Physical or via Webex Meeting
-  
-JOIN WEBEX MEETING
+## Course Format and Organisation
 
-https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61
+### Attendance
+- **Mode of Attendance:**  Physical or via Webex Meeting
+- <p align="center"><a href="https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61"><strong>Join Webex Meeting</strong></a>
+**Meeting number (access code):** 2785 518 6804
+**Meeting password:** fgJq3UEKf67
+</p>
 
-Meeting number (access code): 2785 518 6804
 
-Meeting password: fgJq3UEKf67
+
+
+
+
 
 - Chair of Cyber-Physical-Systems https://cps.unileoben.ac.at 
 - Course tutorials and assignments will be posted on JupyterHub before each session starts.

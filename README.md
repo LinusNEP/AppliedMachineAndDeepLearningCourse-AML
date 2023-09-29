@@ -47,10 +47,9 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 ## Course Format and Organisation
 
 ### Attendance
-<p align="center">
 - **Mode of Attendance:**  Physical or via Webex Meeting
   
-<a href="https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61"><strong>Join Webex Meeting</strong></a>
+<p align="center"><a href="https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61"><strong>Join Webex Meeting (https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61)</strong></a>
 
 **Meeting number (access code):** 2785 518 6804
 

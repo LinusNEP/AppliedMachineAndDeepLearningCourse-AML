@@ -2,7 +2,7 @@
 
   <h2 align="center">Applied Machine and Deep Learning (AML) Project</h2>
   <p align="center">
-        <a href="https://cps.unileoben.ac.at/prof-elmar-rueckert/"><strong>Elmar Rueckert*</strong></a> .
+        <a href="https://cps.unileoben.ac.at/prof-elmar-rueckert/"><strong>Elmar Rueckert*</strong></a> &
         <a href="https://cps.unileoben.ac.at/m-sc-linus-nwankwo/"><strong>Nwankwo Linus</strong></a>
   </p>
   

@@ -2,14 +2,13 @@
 
   <h2 align="center">Applied Machine and Deep Learning (AML) Project</h2>
   <p align="center">
-    <a href="https://cps.unileoben.ac.at/m-sc-linus-nwankwo/"><strong>Nwankwo Linus*</strong></a>
-    ·
-    <a href="https://cps.unileoben.ac.at/prof-elmar-rueckert/"><strong>Elmar Rueckert</strong></a>
+        <a href="https://cps.unileoben.ac.at/prof-elmar-rueckert*/"><strong>Elmar Rueckert</strong></a>
+        <a href="https://cps.unileoben.ac.at/m-sc-linus-nwankwo/"><strong>Nwankwo Linus*</strong></a>
   </p>
   
-  <p align="center"><a href="https://www.unileoben.ac.at/"><strong>Montanüniversität Leoben</strong></a>
+  <p align="center"><a href="[https://www.unileoben.ac.at](https://cps.unileoben.ac.at/)/"><strong>Chair of Cyber-Physical-Systems (CPS)</strong></a>
   
-  <h3 align="center"><a href="https://......">Lecture Notes</a> | <a href="https://......">Slides</a> | <a href="https.......">project Dataset</a></h3>
+  <h3 align="center"><a href="https://cloud.cps.unileoben.ac.at/index.php/s/iWzKSKJRZ2JHm4a">Lecture Notes</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/mogXns8AyQdtBHX">Slides</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/pHzZxfiDQff9RGs">Projects & Datasets</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/xKgHwPSooAHzMjS">Jupyter Notebook Template</a></h3>
   <div align="center"></div>
 </p>
 

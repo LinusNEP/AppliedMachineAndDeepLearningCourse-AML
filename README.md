@@ -70,75 +70,19 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 - Online assistance will be limited, therefore, it is encouraged to attend the course in person so that you can get unlimited help to enable you to finish or at least figure out how to finish the assignment before the due time.
 - An account will be created for each group in our [JupyterHub](https://jupyter.cps.unileoben.ac.at/user/linus/lab) for submission of the assignments.
 - The accounts will remain active till the end of the semester.
+- The final project results will be presented in a written report in the form of a git repository wiki page and presented for at least 5 - 10 mins.
 
-The final project results will be presented in a written report in form of a git repository wiki page, and presented for a final 5 -10 mins.
-- AML WS 2023/24 Lab
-- Linus Nwankwo
+### Communication and Academic Integrity
 
-### Setup Instruction
+- **Office Hours:** If you have any questions or need assistance, please come during the office hour. If you cannot make it to office hours, email me to schedule an appointment.
+- **Emails:** It is extremely hard to discuss technical questions through emails. Therefore, we encourage you to come to the lab for such a discussion.
+- **Discussions among teams** are encouraged for a better understanding of the course materials. However, each of you (or your team) should work on your code independently after the discussions.
+- **Lab safety:** In case your chosen project requires a physical robot or other hardware in our lab, please seek permission from the technician or the person in charge of such hardware.
+- **Citation:** Reference any website or academic material used in your project. If you use **ChatGPT** for your work, please provide details of the prompt and the results.
 
-- **Set up ROS environment:**
 
-To run the code and reproduce the experiments conducted in the paper, you need to set up a ROS (Robot Operating System) environment. Follow the official ROS documentation [here](https://wiki.ros.org/) to install ROS on your system. We used ROS Noetic distribution for all our experiments. Make sure you have the necessary dependencies installed.
 
-- **Create a workspace (optional):**
 
-I called my workspace o2s workspace (o2s_ws). Yours may be different.
-```
-mkdir -p ~/o2s_ws/src
-cd ~/o2s_ws/src
-cd ..
-catkin_make
-```
-Set path of the workspace as follows:
-```
-source devel/setup.bash
-gedit ~/.bashrc
-```
-Add `source ~/o2s_ws/devel/setup.bash` to the very end of the opened bash file so that you don't need to source the bash file each time you open a new terminal window.
-
-- **Download datasets:**
-
-The datasets are recorded in ROS bag files for each environment. The data include the LiDAR, RGB-D and IMU information from the sensors. In order to analyze the data and reproduce the experiments, you will need to download the ROS bag files containing the sensor data from each of the indoor environments. You can download the ROS bag files from [here](https://osf.io/qdxev/). Once downloaded, place the ROS bag files in the workspace (src) directory. Before proceeding to the next step, ensure you have the relevant SLAM algorithms installed or set up on your system.
-Lidar-based: [Hector-SLAM](https://github.com/tu-darmstadt-ros-pkg/hector_slam), [Gmapping](https://github.com/ros-perception/slam_gmapping) and [Karto-SLAM](https://github.com/ros-perception/slam_karto). Visual-based: [RTAB](https://github.com/introlab/rtabmap) and [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2).
-To run any of the SLAM algorithms on the downloaded dataset, follow the following steps🥇:
-```
-roscore
-```
-starts the ROS core node. Check if the ROS bag contains all the necessary ROS topics. 
-```
-rosbag info lidarHospitalEnv.bag
-```
-For lidar-based SLAM using Hector-SLAM for example, execute the following
-```
-rosparam set use_sim_time true
-rosbag play bagfiles/HospitalEnv/lidarHospitalEnv.bag --clock
-roslaunch hector_slam_launch tutorial.launch
-rosbag record -O lidarHospitalEnvData.bag -a
-```
-For visual-based datasets using RTAB for example, execute the following
-
-```
-rosparam set use_sim_time true
-rosbag play /bagfiles/HospitalEnv/visualHospitalEnv.bag  --clock
-roslaunch rtabmap_ros rtabmap.launch rtabmap_args:="--delete_db_on_start"
-rosbag record -O visualHospitalEnvData.bag -a
-
-```
-
-- **Extract useful data from the recorded ROS bag file:**
-
-To extract the relevant topics from the recorded rosbag files, you need to run the `rosbagPOSEtoCSV.py` or `rosbagTFtoCSV.py` scripts. This script is included in the repository and provides functionality to extract the tf, odom, pose, etc from the rosbag files. Execute the following command in your terminal:
-```
-python3 rosbagPOSEtoCSV.py
-```
-Note, before running the above code, do not forget to replace `/home/linus/o2s_ws/src/o2s_robot/bagfile/raadDataset/controlledEnv/lidar/bags/gtCtrldEnv.bag` with the actual path to the ROS bag file you want to extract topics from. Do the same for the output file path ( `/home/linus/o2s_ws/src/o2s_robot/bagfile/raadDataset/controlledEnv/lidar/gtCtrldEnv.csv` ). The script will extract the desired topics and save them as CSV files for further analysis. Once all the relevant topics are extracted and saved in CSV format, follow the following examples to replicate our experiments. 
-
-### Run the example files
-
-- **Requirements:**
-
-To run the example codes provided in this repository, you need to have Matlab installed on your system. Make sure you have a compatible version of Matlab (at least version 2020a) and the required toolboxes installed. The example codes utilize Matlab functionalities for data analysis and visualization.
 
 - **Clone the GitHub repository:**
 

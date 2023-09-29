@@ -123,10 +123,9 @@ If there are hitches, or you are unable to work with our JupyterHub, then:
 4. **Note:** No submission will be accepted via email.
 
 ### Project Grading
-**Project Assignments**
-|----------|----------|
-| Cell 3A  | Cell 3B  |
-| Cell 4A  | Cell 4B  |
+<p align="center">
+  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/grading.png" width="100%" />
+</p>
 
 ### Contact
 

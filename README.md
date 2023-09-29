@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/dataVis.png" width="100%" />
+  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/dataVis.png" width="100%" />
 </p>
 
 LiDAR-based data acquisition | Visual-based data acquisition |
@@ -87,12 +87,18 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 - Basic background in statistics, e.g., probability, descriptive statistics (measures of central tendency and dispersion), visual representation of data (histograms, bar charts, pie charts, scatter plots, etc.).
 - **Recommended Prerequisites:** [Introduction to Machine Learning (“190.012” and “190.013”)](https://cps.unileoben.ac.at/events/190-012-introduction-to-machine-learning-lecture/).
 
-### Lecture Time Table
+### Lecture Timetable
 - The timetable for the lecture will be updated from time to time. 
 - You can access the timetable at https://cloud.cps.unileoben.ac.at/index.php/apps/
 <p align="center">
-  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/AMLSchedule.png" width="100%" />
+  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/AMLSchedule.png" width="100%" />
 </p>
+### If you miss the course
+- If you miss some course content, you can watch recordings of the sessions online.
+- All recordings will be hosted via Moodle at: https://moodle.unileoben.ac.at/course/view.php?id=3082.
+
+### The Project Work Flow
+
 
 ### Contact
 

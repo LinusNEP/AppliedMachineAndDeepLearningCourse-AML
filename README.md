@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/LinusNEP/RAAD-2023/blob/main/images/description.png" width="100%" />
+  <img src="https://cloud.cps.unileoben.ac.at/index.php/s/3Cf8zz4rspPdrmr" width="100%" />
 </p>
 
 LiDAR-based data acquisition | Visual-based data acquisition |

@@ -45,7 +45,12 @@ LiDAR-based data acquisition | Visual-based data acquisition |
 - [Project 1: Steel quality prediction in continuous casting plants](https://github.com/LinusNEP/AppliedMLDL_WS23#Project-1:-Steel-quality-prediction-in-continuous-casting-plants) 
 
 ### Course Format and Organisation
-- Mode of Attendance:  Physical or via Webex Meeting (https://unileoben.webex.com/meet/linus.nwankwo)
+- Mode of Attendance:  Physical or via Webex Meeting
+JOIN WEBEX MEETING
+https://unileoben.webex.com/unileoben/j.php?MTID=m5492385776dd885ca5dde72e52563c61
+Meeting number (access code): 2785 518 6804
+Meeting password: fgJq3UEKf67
+- 
 - Chair of Cyber-Physical-Systems https://cps.unileoben.ac.at 
 - Course tutorials and assignments will be posted on JupyterHub before each session starts.
 

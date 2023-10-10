@@ -8,7 +8,7 @@
 </p>
   
   <p align="center">
-    <h2 align="center">AML Project Materials</h2>
+    <h2 align="center">AML Project Resources</h2>
   </p>
 <p align="center">
   <h3 align="center"><a href="https://cloud.cps.unileoben.ac.at/index.php/s/eMJL744zi2cHRCw">Jupyter Notebook Template</a> | <a href="https://moodle.unileoben.ac.at/course/view.php?id=3082&section=1">Lecture Notes</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/pHzZxfiDQff9RGs">Projects Datasets</a> | <a href="https://studgit.cps.unileoben.ac.at/">Studgit</a> </h3>

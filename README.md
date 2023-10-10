@@ -27,7 +27,7 @@
 - [Notes](https://github.com/LinusNEP/AppliedMLDL_WS23#Notes)
 - [Communication and Academic Integrity](https://github.com/LinusNEP/AppliedMLDL_WS23#Communication-and-Academic-Integrity)
 - [Prerequisites](https://github.com/LinusNEP/AppliedMLDL_WS23#Prerequisites)
-- [Lecture Time Table](https://github.com/LinusNEP/AppliedMLDL_WS23#Lecture-Time-Table)
+- [Lecture Time Table](https://github.com/LinusNEP/AppliedMLDL_WS23#Lecture-Timetable)
 - [If you miss the course](https://github.com/LinusNEP/AppliedMLDL_WS23#If-you-miss-the-course)
 - [The Project Workflow](https://github.com/LinusNEP/AppliedMLDL_WS23#The-Project-Workflow)
 - [Task Presentation, Q & A](https://github.com/LinusNEP/AppliedMLDL_WS23#Task-Presentation,-Q-&-A)

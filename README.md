@@ -22,7 +22,7 @@
 ## Table of Contents
 
 - [Course Format and Organisation](https://github.com/LinusNEP/AppliedMLDL_WS23#Course-Format-and-Organisation)
-- [Location & Time](https://github.com/LinusNEP/AppliedMLDL_WS23#Location-&-Time)
+- [Location and Date](https://github.com/LinusNEP/AppliedMLDL_WS23#Location-and-Date)
 - [Attendance](https://github.com/LinusNEP/AppliedMLDL_WS23#Attendance)
 - [Notes](https://github.com/LinusNEP/AppliedMLDL_WS23#Notes)
 - [Communication and Academic Integrity](https://github.com/LinusNEP/AppliedMLDL_WS23#Communication-and-Academic-Integrity)
@@ -30,14 +30,14 @@
 - [Lecture Time Table](https://github.com/LinusNEP/AppliedMLDL_WS23#Lecture-Timetable)
 - [If you miss the course](https://github.com/LinusNEP/AppliedMLDL_WS23#If-you-miss-the-course)
 - [The Project Workflow](https://github.com/LinusNEP/AppliedMLDL_WS23#The-Project-Workflow)
-- [Task Presentation, Q & A](https://github.com/LinusNEP/AppliedMLDL_WS23#Task-Presentation,-Q-&-A)
+- [Task Presentation, Q & A](https://github.com/LinusNEP/AppliedMLDL_WS23#Task-Presentation-Q-and-A)
 - [Report and Code](https://github.com/LinusNEP/AppliedMLDL_WS23#Report-and-Code)
 - [Alternative Submission Method](https://github.com/LinusNEP/AppliedMLDL_WS23#Alternative-Submission-Method)
 - [Project Grading](https://github.com/LinusNEP/AppliedMLDL_WS23#Project-Grading)
 - [Grading Scheme](https://github.com/LinusNEP/AppliedMLDL_WS23#Grading-Scheme)
 - [Projects Overview](https://github.com/LinusNEP/AppliedMLDL_WS23#Projects-Overview)
 - [Getting Started Tools](https://github.com/LinusNEP/AppliedMLDL_WS23#Getting-Started-Tools) 
-- [Course Objectives](https://github.com/LinusNEP/AppliedMLDL_WS23#Course-Objectives)
+- [Project Objectives](https://github.com/LinusNEP/AppliedMLDL_WS23#Project-Objectives)
 - [Resources and Literature](https://github.com/LinusNEP/AppliedMLDL_WS23#Resources-and-Literature)
 - [Contacts](https://github.com/LinusNEP/AppliedMLDL_WS23#Contacts)
 
@@ -59,7 +59,7 @@
 
   - **Meeting password:** vTHYP5QMj77
 
-### Location & Date
+### Location and Date
 - **Location:**  HS 3 Studienzentrum, Montanuniversität, Leoben
 - **Dates:** 02.10  –  06.10.2023 and Every Wednesday from 17:00 - 18:00 via Webex.
 
@@ -100,7 +100,7 @@
   <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/workflow.png" width="100%" />
 </p>
 
-### Task Presentation, Q & A
+### Task Presentation Q and A
 - Introduction to the task:  06.10.2023
 - Motivation & Objectives
 - Research Questions & Related Work
@@ -157,6 +157,14 @@ If there are hitches, or you are unable to work with our JupyterHub, then:
 - **[Robotics 2]:** Autonomous navigation and mapping with RGB-D cameras of the four-legged robot Unitree Go1 for excavation inspection in mining
 - **[Sign Language]:** Letter-level Sign-Language Recognition
 - **[Own Problem]:** I want to work on my own dataset and research problem. Please provide us with the details of the project.
+
+### Getting Started Tools
+Necessary tools to get started:
+- **Linux:** Basic commands may be required
+- **Python:** You just need to have a basic idea about data structures, operators, functions, etc.
+- **ROS:** [ROS Wiki Documentation](http://wiki.ros.org/ROS/Tutorials) has all that you need to get started (project 3)
+- **Virtual Machines:** If your OS is not Linux, do not worry, VMware will work on Windows and Mac (optional)
+- **Git:** To better manage your codes, we recommend Git
 
 ### Project Objectives
 At the end of the project, you should be able to:

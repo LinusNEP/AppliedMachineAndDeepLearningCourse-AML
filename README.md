@@ -37,7 +37,6 @@
 - [Resources and Literature](https://github.com/LinusNEP/AppliedMLDL_WS23#Resources-and-Literature)
 - [Getting Started Tools](https://github.com/LinusNEP/AppliedMLDL_WS23#Getting-Started-Tools)
 - [Projects Overview](https://github.com/LinusNEP/AppliedMLDL_WS23#Projects-Overview)
-- [Project 1: Steel quality prediction in continuous casting plants](https://github.com/LinusNEP/AppliedMLDL_WS23#Project-1:-Steel-quality-prediction-in-continuous-casting-plants) 
 
 ## Course Format and Organisation
 

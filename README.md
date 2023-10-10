@@ -22,21 +22,24 @@
 ## Table of Contents
 
 - [Course Format and Organisation](https://github.com/LinusNEP/AppliedMLDL_WS23#Course-Format-and-Organisation)
+- [Location & Time](https://github.com/LinusNEP/AppliedMLDL_WS23#Location-&-Time)
+- [Attendance](https://github.com/LinusNEP/AppliedMLDL_WS23#Attendance)
+- [Notes](https://github.com/LinusNEP/AppliedMLDL_WS23#Notes)
 - [Communication and Academic Integrity](https://github.com/LinusNEP/AppliedMLDL_WS23#Communication-and-Academic-Integrity)
 - [Prerequisites](https://github.com/LinusNEP/AppliedMLDL_WS23#Prerequisites)
 - [Lecture Time Table](https://github.com/LinusNEP/AppliedMLDL_WS23#Lecture-Time-Table)
 - [If you miss the course](https://github.com/LinusNEP/AppliedMLDL_WS23#If-you-miss-the-course)
-- [The Project Work Flow](https://github.com/LinusNEP/AppliedMLDL_WS23#The-Project-Work-Flow)
+- [The Project Workflow](https://github.com/LinusNEP/AppliedMLDL_WS23#The-Project-Workflow)
 - [Task Presentation, Q & A](https://github.com/LinusNEP/AppliedMLDL_WS23#Task-Presentation,-Q-&-A)
 - [Report and Code](https://github.com/LinusNEP/AppliedMLDL_WS23#Report-and-Code)
 - [Alternative Submission Method](https://github.com/LinusNEP/AppliedMLDL_WS23#Alternative-Submission-Method)
 - [Project Grading](https://github.com/LinusNEP/AppliedMLDL_WS23#Project-Grading)
 - [Grading Scheme](https://github.com/LinusNEP/AppliedMLDL_WS23#Grading-Scheme)
-- [Location & Time](https://github.com/LinusNEP/AppliedMLDL_WS23#Location-&-Time)
+- [Projects Overview](https://github.com/LinusNEP/AppliedMLDL_WS23#Projects-Overview)
+- [Getting Started Tools](https://github.com/LinusNEP/AppliedMLDL_WS23#Getting-Started-Tools) 
 - [Course Objectives](https://github.com/LinusNEP/AppliedMLDL_WS23#Course-Objectives)
 - [Resources and Literature](https://github.com/LinusNEP/AppliedMLDL_WS23#Resources-and-Literature)
-- [Getting Started Tools](https://github.com/LinusNEP/AppliedMLDL_WS23#Getting-Started-Tools)
-- [Projects Overview](https://github.com/LinusNEP/AppliedMLDL_WS23#Projects-Overview)
+- [Contacts](https://github.com/LinusNEP/AppliedMLDL_WS23#Contacts)
 
 ## Course Format and Organisation
 
@@ -92,15 +95,22 @@
 - If you miss some course content, you can watch recordings of the sessions online.
 - All recordings will be hosted via Moodle at: https://moodle.unileoben.ac.at/course/view.php?id=3082.
 
-### The Project Work Flow
+### The Project Workflow
 <p align="center">
   <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/workflow.png" width="100%" />
 </p>
 
+### Task Presentation, Q & A
+- Introduction to the task:  06.10.2023
+- Motivation & Objectives
+- Research Questions & Related Work
+- Problem & Dataset Description
+- Approach & Methods
+- Results and Discussions
 **Q & A**
   - During the Lecture
   - During office hours
-  - If technical question(s) that involve hardware: come to the lab or schedule an appointment
+  - If technical question(s) that involves hardware: come to the lab or schedule an appointment
 
 ###  Report and Code
 | Reports | Codes|
@@ -139,8 +149,17 @@ If there are hitches, or you are unable to work with our JupyterHub, then:
 
 - **Note:** Final grading will be based on the quality of the code, the report, and the final short presentation.
 
+### Projects Overview
+**For the course, we have five (6) projects to be worked on by the students  (individual or group):**
+- **[Steel Production Data]:** Application and comparison of deep neural networks for steel quality prediction in continuous casting plants with data from the ‘Stahl- und Walzwerk Marienhütte GmbH Graz’
+- **[Mechanical Eng. Data]:** Predictive maintenance of bearing shells using frequency analysis in decision trees and deep neural networks based on acoustic measurement data
+- **[Robotics 1]:** Motion analysis and path planning for human-machine interaction in logistics tasks with mobile robots of the Chair of CPS
+- **[Robotics 2]:** Autonomous navigation and mapping with RGB-D cameras of the four-legged robot Unitree Go1 for excavation inspection in mining
+- **[Sign Language]:** Letter-level Sign-Language Recognition
+- **[Own Problem]:** I want to work on my own dataset and research problem. Please provide us with the details of the project.
+
 ### Project Objectives
-At the end of this project, you should be able to:
+At the end of the project, you should be able to:
   - Implement or independently adapt modern machine learning methods, and in particular deep learning methods, in Python
   - Analyse data of complex industrial problems, process (filter) the data, and divide it into training- and test data sets such that a meaningful interpretation is possible
   - Define criteria and metrics to evaluate,  predict, and generate statistical analysis of data
@@ -162,8 +181,8 @@ At the end of this project, you should be able to:
   - Kevin M. Lynch and FrankC. Park 2017. [MODERN ROBOTICS, MECHANICS, PLANNING, AND CONTROL](https://search-mul.obvsg.at/primo-explore/fulldisplay?docid=MUL_alma2184609980004518&context=L&vid=MUL&lang=de_DE&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,MODERN%20ROBOTICS,%20MECHANICS,%20PLANNING,%20AND%20CONTROL&offset=0), Cambridge University Press.
   - E.T. Turkogan 1996. [Fundamentals of Steelmaking](https://search-mul.obvsg.at/primo-explore/fulldisplay?docid=MUL_alma2145275330004518&context=L&vid=MUL&lang=de_DE&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Fundamentals%20of%20Steelmaking&offset=0). Maney Publishing, UK.
 
-### Contact
-Should you have any questions, please contact:
+### Contacts
+Should you have any question(s), please contact:
 
-- Nwankwo Linus {[linus.nwankwo@unileoben.ac.at]()}
-
+- Nwankwo Linus {[linus.nwankwo@unileoben.ac.at](linus.nwankwo@unileoben.ac.at)}
+  

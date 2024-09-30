@@ -1,0 +1,21 @@
+Class Name,Total Count,Training Count,Validation Count,Test Count
+light bulb,5697,3902,1154,641
+person,3253,2301,582,370
+tiled floor,975,682,195,98
+door,874,621,164,89
+pillar,857,595,177,85
+table,599,412,119,68
+window,414,291,91,32
+staircase,271,210,35,26
+desk,144,108,24,12
+banner,103,89,6,8
+trash bin,66,44,14,8
+fire extinguisher,55,43,10,2
+chair,53,39,6,8
+tree,34,20,6,8
+backpack,13,9,3,1
+motorcycle,8,5,2,1
+carton,6,4,2,0
+step,4,4,0,0
+miscellaneous,2,0,1,1
+windows frame,1,1,0,0

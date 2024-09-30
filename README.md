@@ -8,7 +8,7 @@
 </p>
   
  ### AML Project Resources
-Find detailed information about the course at:
+Find detailed information about the course and resources at:
 <p align="center">
   <p align="center"><a href="https://cps.unileoben.ac.at/190-015-applied-machine-and-deep-learning-5sh-il-ws-2/"><strong>190-015-applied-machine-and-deep-learning-5sh-il-ws-24</strong></a>
 </p>

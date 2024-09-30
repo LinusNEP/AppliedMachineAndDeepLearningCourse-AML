@@ -88,7 +88,7 @@
 - The timetable for the lecture will be updated from time to time. 
 - You can access the timetable at https://cloud.cps.unileoben.ac.at/index.php/apps/
 <p align="center">
-  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/AMLSchedule.png" width="100%" />
+  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/AML_WS23/media/AMLSchedule.png" width="100%" />
 </p>
 
 ### If you miss the course
@@ -97,7 +97,7 @@
 
 ### The Project Workflow
 <p align="center">
-  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/workflow.png" width="100%" />
+  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/AML_WS23/media/workflow.png" width="100%" />
 </p>
 
 ### Task Presentation Q and A
@@ -132,7 +132,7 @@ If there are hitches, or you are unable to work with our JupyterHub, then:
 
 ### Project Grading
 <p align="center">
-  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/grading.png" width="100%" />
+  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/AML_WS23/media/grading.png" width="100%" />
 </p>
 
 - **Note:** Submissions with no reports or no code are not considered and will receive 0 total points.

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 20
+names: ['backpack', 'banner', 'carton', 'chair', 'desk', 'door', 'fire extinguisher', 'light bulb', 'miscellaneous', 'motorcycle', 'person', 'pillar', 'staircase', 'step', 'table', 'tiled floor', 'trash bin', 'tree', 'window', 'windows frame']
+
+Meta_data:
+  scene: mu-hall
+  sequence: seq-01
+  version: 1
+  license: CC BY 4.0
+  url: https://linusnep.github.io/EnvoDat/

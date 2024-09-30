@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/main/media/dataVis.png" width="100%" />
+  <img src="https://github.com/LinusNEP/AppliedMLDL_WS23/blob/AML_WS23/media/dataVis.png" width="100%" />
 </p>
 
 ## Table of Contents

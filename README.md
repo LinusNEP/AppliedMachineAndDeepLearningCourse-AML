@@ -7,16 +7,10 @@
 <p align="center"><a href="https://cps.unileoben.ac.at/"><strong>Chair of Cyber-Physical-Systems (CPS)</strong></a>
 </p>
   
-  <p align="center">
-    <h2 align="center">AML Project Resources</h2>
-  </p>
+ ### AML Project Resources
+Find detailed information about the course at:
 <p align="center">
-  <h3 align="center"><a href="https://cloud.cps.unileoben.ac.at/index.php/s/eMJL744zi2cHRCw">Jupyter Notebook Template</a> | <a href="https://moodle.unileoben.ac.at/course/view.php?id=3082&section=1">Lecture Notes</a> | <a href="https://cloud.cps.unileoben.ac.at/index.php/s/pHzZxfiDQff9RGs">Projects Datasets</a> | <a href="https://studgit.cps.unileoben.ac.at/">Studgit</a> </h3>
-  <div align="center"></div>
-</p>
-
-<p align="center">
-  <p align="center"><a href="https://cps.unileoben.ac.at/190-015-applied-machine-and-deep-learning-5sh-il-ws-2/"><strong>Detailed Information about the Course Here</strong></a>
+  <p align="center"><a href="https://cps.unileoben.ac.at/190-015-applied-machine-and-deep-learning-5sh-il-ws-2/"><strong>190-015-applied-machine-and-deep-learning-5sh-il-ws-24</strong></a>
 </p>
 
 ### Contacts

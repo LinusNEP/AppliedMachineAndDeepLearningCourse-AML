@@ -1,7 +1,0 @@
-jupyter
-torch
-torchvision
-scikit-learn
-matplotlib
-tqdm
-tensorboard
